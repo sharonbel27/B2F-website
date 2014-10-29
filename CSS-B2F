@@ -1,0 +1,12 @@
+<style>
+		p{
+			color: red;
+		}
+		.green{
+			color : blue;
+		}
+
+		#post {
+			color: grey
+		}
+		</style>
